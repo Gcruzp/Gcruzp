@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=header"/>
 
+# Olá, me chamo Gabriel Cruz !  
+## Bem vindo ao meu perfil GitHub 👋     ![dark-vader-dark](https://user-images.githubusercontent.com/88293649/236701349-e89137f6-c034-4d9e-874a-445127c99d6f.gif)
+
 <div align="center">
 <img width="49%" height="195%" src="https://github-readme-stats.vercel.app/api?username=Gcruzp&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=4F4F4F&text_color=C0C0C0&bg_color=00000000" alt=Gabriellen Vitório github stats" />
 <img width="41%" height="195%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gcruzp&layout=compact&hide_border+true&title_color=C0C0C0&text_color=C0C0C0&bg_color=00000000"/>
