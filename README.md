@@ -19,16 +19,16 @@
 
 </div>
 
-### Main skills:
-![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=ED8B00)&nbsp;
-![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=14354C)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=316192)&nbsp;
+## Skill Badges
 
-### Studying in this moment:
-![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-323330?style=for-the-badge&logo=amazon-aws&logoColor=232F3E)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
-![Apache](https://img.shields.io/badge/Apache-323330?style=for-the-badge&logo=apache&logoColor=CA2136)&nbsp;
-![mongodb](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=white=4EA94B)&nbsp;
+<!-- skills -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,eclipse,mysql,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,linux,aws" />
+    <img src="https://skillicons.dev/icons?i=css,html,js," />
+  </a>
+</p>
 
 <div align="center">
 <br>
