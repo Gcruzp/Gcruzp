@@ -24,7 +24,7 @@
 <!-- skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,eclipse,mysql,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=java,py,mysql,mongodb,postgres" />
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,linux,aws" />
     <img src="https://skillicons.dev/icons?i=css,html,js," />
   </a>
