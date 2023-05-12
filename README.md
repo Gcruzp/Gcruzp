@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=header"/>
 
-# Olá, me chamo Gabriel Cruz !  
+# Olá, me chamo Gabriel Cruz !   
 ## Bem vindo ao meu perfil GitHub 👋     ![dark-vader-dark](https://user-images.githubusercontent.com/88293649/236701349-e89137f6-c034-4d9e-874a-445127c99d6f.gif)
 
 <div align="center">
